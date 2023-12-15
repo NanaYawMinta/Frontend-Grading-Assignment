@@ -1,0 +1,10 @@
+.welcomegrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color:#F99417;
+}
+
+.firstpagedescription{
+    margin-top: 200px;
+    color: white;
+}
